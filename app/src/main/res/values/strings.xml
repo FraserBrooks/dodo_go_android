@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dodo Go</string>
+    <string name="title_activity_game_main">GameMainActivity</string>
+</resources>
